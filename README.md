@@ -5,3 +5,4 @@ I am going to implement some nav, header, footer elements as well as some css tr
 wish me luck
 
 From The Odin Project's [curriculum](http://www.theodinproject.com/courses/web-development-101/lessons/html-css)
+ok lets do this
